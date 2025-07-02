@@ -11,14 +11,14 @@ This project performs exploratory data analysis (EDA) on the IMDB Top 250 TV Sho
 # Dataset
 Source: Kaggle - IMDB Top 250 TV Shows
 The dataset contains the following columns:
-Name
-Year
-Certificate
-Runtime
-Genre
-Rating
-Overview
-Votes
+- Name
+- Year
+- Certificate
+- Runtime
+- Genre
+- Rating
+- Overview
+- Votes
 
 # Key Insights
 - Shows with higher ratings generally attract more votes.
@@ -27,8 +27,8 @@ Votes
 - TV-MA is the most common certificate among top-rated series.
 
 # Tools & Technologies
-Python
-Pandas
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
