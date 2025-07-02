@@ -32,3 +32,6 @@ The dataset contains the following columns:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+# Useful link
+- Case Study Questions: https://docs.google.com/document/d/10janb88R8SyokOKYNJifKOo7-q4ryhy_DeaiCVF5OCU/edit?tab=t.0#heading=h.cb21ad7pmlka
